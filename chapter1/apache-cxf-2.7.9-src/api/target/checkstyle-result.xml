@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/extension/Registry.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/extension/BusExtension.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/extension/RegistryImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/AbstractBindingFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/AbstractBaseBindingFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/BindingFactoryManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/Binding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/BindingFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/BindingConfiguration.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/binding/WSDLBindingFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/NamespaceMapper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/JAXBContextProxy.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/SchemaCollectionContextProxy.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/JAXBContextCache.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/JAXBUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/jaxb/JAXBBeanInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/CXFPermissions.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/i18n/UncheckedException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/i18n/BundleUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/i18n/Exception.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/i18n/Message.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/XmlSchemaConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/XmlSchemaInvalidOperation.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/XmlSchemaValidationManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/SchemaCollection.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/UnsupportedConstruct.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/InvalidXmlSchemaReferenceException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/LSInputImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/xmlschema/XmlSchemaUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/SimplePrincipal.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/TokenType.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/SecurityToken.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/UsernameToken.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/SimpleSecurityContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/security/SimpleGroup.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/commands/ResultBufferedCommand.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/commands/ForkedCommandException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/commands/ForkedCommand.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/commands/JavaHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/logging/AbstractDelegatingLogger.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/logging/JDKBugHacks.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/logging/Slf4jLogger.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/logging/LogUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/logging/Log4jLogger.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/annotation/AnnotationProcessor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/annotation/AbstractAnnotationVisitor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/annotation/AnnotationVisitor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/JarResource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/SystemPropertyAction.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/CacheMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/UrlUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ASMHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/XMLSchemaQNames.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/CglibProxyHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/XmlSchemaPrimitiveUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/SortedArraySet.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ProxyClassLoader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/SystemUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/PropertyUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/CachedClass.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ReflectionInvokationHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ExtensionInvocationHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ClassReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/StringUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/Base64Exception.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/Compiler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/Base64Utility.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ReflectionUtil.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/SpringAopClassHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/URIParserUtil.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/StreamPrinter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ModCountCopyOnWriteArrayList.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/PrimitiveUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ProxyHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/CollectionUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ClassHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/PropertiesLoaderUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/PackageUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/WeakIdentityHashMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/ParamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/util/SOAPConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/classloader/FireWallClassLoader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/classloader/ClassLoaderUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/classloader/JAXBClassLoaderUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/injection/NoJSR250Annotations.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/injection/ResourceInjector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/common/WSDLConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/continuations/SuspendedInvocationException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/continuations/ContinuationCallback.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/continuations/ContinuationInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/continuations/ContinuationProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/continuations/Continuation.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/DescriptionInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/MessageInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/SchemaInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/ServiceSchemaInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/UnwrappedOperationInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/BindingInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/InterfaceInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/EndpointInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/BindingOperationInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/NamedItem.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/OperationInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/Extensible.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/AbstractDescriptionElement.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/BindingMessageInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/AbstractPropertiesHolder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/FaultInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/BindingFaultInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/AbstractMessageContainer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/ServiceInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/ServiceModelUtil.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/model/MessagePartInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/ServiceModelVisitor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/FactoryInvoker.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/Invoker.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/BeanInvoker.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/AbstractInvoker.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/SpringBeanFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/PooledFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/SessionFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/Factory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/MethodDispatcher.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/SingletonFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/invoker/PerRequestFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/ServiceBuilder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/ServiceModelSchemaValidator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/ServiceImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/service/Service.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/BaseDataWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/WrapperCapableDatabinding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/AbstractDataBinding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/PropertiesAwareDataBinding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/DataReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/WrapperHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/DataWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/DataBinding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/BaseDataReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/databinding/AbstractWrapperHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/AbstractObservable.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/DestinationFactoryManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/AbstractTransportFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/MultiplexDestination.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/DestinationWithEndpoint.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/MultipleEndpointObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/ConduitInitiatorManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/Observable.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/Session.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/HttpUriMapper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/DestinationFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/ConduitInitiator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/Assertor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/TransportURIResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/Conduit.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/AbstractDestination.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/ChainInitiationObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/AbstractMultiplexDestination.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/MessageObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/Destination.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/AbstractConduit.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transport/TransportFinder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/IOUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/ServiceUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/NSStack.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/CastUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/XPathUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/XMLUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/LoadingByteArrayOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/FileUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/NodeUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/HttpHeaderHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/WSDLHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/NSDecl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/JavaUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/MapNamespaceContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/MethodComparator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/helpers/DOMUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/OverlayW3CDOMStreamWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/DepthExceededStaxException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/PartialXMLStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/W3CNamespaceContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/DelegatingXMLStreamWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/StaxStreamFilter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/W3CDOMStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/FragmentStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/StaxSource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/AbstractDOMStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/DocumentDepthProperties.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/StaxUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/FastStack.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/DepthXMLStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/WoodstoxHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/PrettyPrintXMLStreamWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/CachingXmlEventWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/TransformUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/QNamesMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/ParsingEvent.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/OutTransformWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/ElementProperty.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/InTransformReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/DelegatingNamespaceContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/transform/IgnoreNamespacesWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/DepthRestrictingStreamReader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/StreamWriterContentHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/staxutils/W3CDOMStreamWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/ManagedComponent.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedResource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedNotification.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedOperationParameters.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedAttribute.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedOperationParameter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedOperation.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/annotation/ManagedNotifications.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/ManagementConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/management/InstrumentationManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/version/Version.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServiceContractResolverRegistry.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServiceContractResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServerLifeCycleListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/AbstractConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/EndpointImplFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ConduitSelectorHolder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/Client.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/Server.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServerImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/PreexistingConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/EndpointResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/UpfrontConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/Endpoint.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/EndpointException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/Retryable.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServerRegistry.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/NullConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ManagedEndpoint.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ServerLifeCycleManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/EndpointImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ContextInspector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/DeferredConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/AbstractEndpointFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ClientImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ClientCallback.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/SimpleEndpointImplFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/EndpointResolverRegistry.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ClientLifeCycleListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ConduitSelector.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/endpoint/ClientLifeCycleManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/NSManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/WSAContextUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/AddressingConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/AddressingType.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/ContextUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/VersionTransformer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/JAXWSAConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/AddressingBuilder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/wsdl/UsingAddressing.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/FaultAction.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/WSAddressingFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/Names.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/MessageIdCache.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/AddressingProperties.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/ws/addressing/MAPAggregator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/claims/authorization/ClaimMode.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/claims/authorization/Claim.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/claims/authorization/Claims.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/transport/TLSSessionInfo.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/SecurityContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/security/LoginSecurityContext.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/LoggingMessage.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AttachmentOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractInDatabindingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/BareOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/Fault.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/StaxInEndingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/MessageSenderInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractLoggingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/StaxOutEndingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/ClientOutFaultObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractFaultChainInitiatorObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractEndpointSelectionInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/WrappedOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/FIStaxOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/OneWayProcessorInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/URIMappingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/OutInterceptors.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/InFaultInterceptors.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AttachmentInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/OutFaultInterceptors.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AnnotationInterceptors.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractOutDatabindingInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/OutgoingChainInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/InterceptorChain.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/InFaultChainInitiatorObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/BareInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/StaxInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/StaxOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractAttributedInterceptorProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/OutFaultChainInitiatorObserver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/LoggingOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/transform/TransformOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/transform/TransformInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/Interceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/InterceptorProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/InInterceptors.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/ClientFaultConverter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/AbstractBasicInterceptorProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/LoggingInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/ServiceInvokerInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/DocLiteralInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/FIStaxInInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/interceptor/FaultOutInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/headers/HeaderProcessor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/headers/Header.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/headers/HeaderManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/BusException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/UseAsyncMethod.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/Policies.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/SchemaValidation.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/WSDLDocumentationCollection.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/EndpointProperties.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/EndpointProperty.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/Policy.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/GZIP.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/WSDLDocumentation.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/FactoryType.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/DataBinding.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/EvaluateAllEndpoints.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/FastInfoset.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/annotations/Logging.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/AbstractWSDLPlugin.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/JAXBExtensionHelper.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLExtensibilityPlugin.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLLibrary.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLBuilder.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLServiceFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/PrettyPrintXMLStreamWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/EndpointReferenceUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSAEndpointReferenceUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/TExtensibilityElementImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/EndpointUtilsException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/wsdl/WSDLExtensionLoader.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/logging/NoOpFaultListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/logging/FaultListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/ByteDataSource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/LazyDataSource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/AttachmentImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/DelegatingInputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/AttachmentDataSource.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/MimeBodyPartInputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/ImageDataContentHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/ContentDisposition.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/QuotedPrintableDecoderStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/AttachmentUtil.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/AttachmentDeserializer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/AttachmentSerializer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/attachment/LazyAttachmentCollection.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transports/http/StemMatchingQueryHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transports/http/QueryHandlerRegistry.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/transports/http/QueryHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/AbstractFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/LoggingFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/WrappedFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/StaxTransformFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/Features.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/FastInfosetFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/Feature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/validation/DefaultSchemaValidationTypeProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/validation/SchemaValidationTypeProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/feature/validation/SchemaValidationFeature.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/PhaseInterceptorChain.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/AbstractPhaseInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/PhaseChainCache.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/PhaseManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/PhaseInterceptor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/PhaseComparator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/phase/Phase.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ExtendedURIResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/SecurityActions.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/DefaultResourceManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ResourceManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ClassLoaderResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ResourceResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ClasspathResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/PropertiesResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/SinglePropertyResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/ObjectTypeResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/resource/URIResolver.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/policy/PolicyDataEngine.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/policy/PolicyCalculator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CachedOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/AbstractWrappedOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/Transferable.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/DelegatingInputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CachedWriter.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CipherPair.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CopyingOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/StaxValidationManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/AbstractThresholdOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CacheSizeExceededException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/WriteOnCloseOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CacheAndWriteOutputStream.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CachedOutputStreamCallback.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/io/CachedWriterCallback.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/BusFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/WorkQueueManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/WorkQueue.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/OneShotAsyncExecutor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/SynchronousExecutor.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/AutomaticWorkQueue.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/workqueue/AutomaticWorkQueueImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/AbstractBeanDefinitionParser.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/BusWiringType.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/ConfigurerImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/AbstractSpringBeanMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/StringBeanDefinitionParser.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/AbstractFactoryBeanDefinitionParser.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/BeanConstants.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/MapProvider.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/SpringBeanQNameMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/JAXBBeanFactory.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/SpringBeanMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/spring/SimpleBeanDefinitionParser.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/Configurer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSParameterBase.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSClientParameters.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/SSLUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSClientParametersConfig.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSServerParametersConfig.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSParameterJaxBUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/jsse/TLSServerParameters.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/Configurable.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/NullConfigurer.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/ConfigurationException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/configuration/ConfiguredBeanLocator.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/MessageImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/MessageContentsList.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/XMLMessage.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/MessageUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/ExchangeImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/StringMapImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/Exchange.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/Attachment.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/AbstractWrappedMessage.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/Message.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/FaultMode.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/message/StringMap.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/Bus.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/internal/CXFAPINamespaceHandler.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/buslifecycle/BusLifeCycleListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/buslifecycle/BusLifeCycleManager.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/main/java/org/apache/cxf/buslifecycle/BusCreationListener.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/i18n/BundleUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/i18n/MessageTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/xmlschema/DOMErrorException.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/xmlschema/ImportRepairTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/xmlschema/DOMLSInput.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/security/SimplePrincipalTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/security/SimpleGroupTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/commands/ResultBufferedCommandTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/commands/TestCommand.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/commands/ForkedCommandTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/logging/LogUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/annotation/Base.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/annotation/AnnotatedGreeterImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/annotation/AnnotationProcessorTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/StringUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/Base64UtilityTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/PropertiesLoaderUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/PropertyUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/XmlSchemaPrimitiveUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/PackageUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/CollectionUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/ASMHelperTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/util/UrlUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/classloader/FireWallClassLoaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/common/injection/ResourceInjectorTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/continuations/ContinuationInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/continuations/SuspendedInvocationExceptionTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/MessagePartInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/OperationInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/MessageInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/BindingOperationInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/InterfaceInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/BindingFaultInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/BindingMessageInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/service/model/FaultInfoTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/databinding/AbstractDataBindingTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/transport/ChainInitiationObserverTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/transport/HttpUriMapperTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/helpers/FileUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/helpers/HttpHeaderHelperTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/helpers/XMLUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/helpers/ServiceUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/helpers/NameSpaceTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/W3CDOMStreamReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/StaxStreamFilterTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/DepthRestrictingStreamReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/DepthXMLStreamReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/transform/InTransformReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/transform/OutTransformWriterTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/transform/TransformTestUtils.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/transform/DelegatingNamespaceContextTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/PartialXMLStreamReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/StaxUtilsTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/staxutils/FragmentStreamReaderTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/version/VersionTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/BusFactoryTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/wsdl/JAXBExtensionHelperTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/attachment/AttachmentUtilTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/attachment/AttachmentSerializerTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/attachment/AttachmentDeserializerTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/phase/PhaseInterceptorChainTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/resource/URIResolverTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/resource/ClassLoaderResolverTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/io/CachedStreamTestBase.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/io/CachedWriterTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/io/CachedOutputStreamTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/workqueue/AutomaticWorkQueueTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/configuration/spring/Person.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/configuration/spring/SpringBeanMapTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/configuration/spring/PersonImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/configuration/spring/PersonQNameImpl.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/configuration/spring/SpringBeanQNameMapTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/NSManagerTest.java">
+</file>
+<file name="/home/victor/Documentos/Programacion/Groovy/B03619_CodeBundle/chapter1/apache-cxf-2.7.9-src/api/src/test/java/org/apache/cxf/internal/CXFAPINamespaceHandlerTest.java">
+</file>
+</checkstyle>

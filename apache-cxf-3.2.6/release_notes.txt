@@ -1,0 +1,109 @@
+Apache CXF 3.2.6 Release Notes
+
+1. Overview
+
+The 3.2.x versios of Apache CXF is a significant new version of CXF
+that provides several new features and enhancements.  
+
+New features include: 
+* JAX-RS 2.1 (JSR370) support including the implementation of Reactive Client 
+  and Server Sent Events API
+* Enhanced Swagger2 support including new java2swagger Maven plugin
+* WS-Transfer specification support
+* Enhanced Tracing support with Brave
+* Support for Spring Boot 2.x
+* JAX-WS - support for per-operation schema validation configuration
+* WSS4J Signatures can support MTOM attachments
+* Preliminary support for running on Java 9  (no module support yet)
+* New http-undertow transport
+
+3.2.6 fixes over 25 JIRA issues reported by users and the community since 3.2.5.
+
+
+Important notes:
+CXF 3.2.x no longer supports Java 7.   You must upgrade to Java 8 or later.
+
+Users are encouraged to review the migration guide at:
+http://cxf.apache.org/docs/32-migration-guide.html
+for further information and requirements for upgrading from earlier
+versions of CXF.
+
+
+2. Installation Prerequisites 
+
+Before installing Apache CXF, make sure the following products,
+with the specified versions, are installed on your system:
+
+    * Java 8 Development Kit
+    * Apache Maven 3.x to build the samples
+
+
+3.  Integrating CXF Into Your Application
+
+If you use Maven to build your application, you need merely add
+appropriate dependencies. See the pom.xml files in the samples.
+
+If you don't use Maven, you'll need to add one or more jars to your
+classpath. The file lib/WHICH_JARS should help you decide which 
+jars you need.
+
+4. Building the Samples
+
+Building the samples included in the binary distribution is easy. Change to
+the samples directory and follow the build instructions in the README.txt file 
+included with each sample.
+
+5. Reporting Problems
+
+If you have any problems or want to send feedback of any kind, please e-mail the
+CXF dev list, dev@cxf.apache.org.  You can also file issues in JIRA at:
+
+http://issues.apache.org/jira/browse/CXF
+
+6. Migration notes:
+
+See the migration guide at:
+http://cxf.apache.org/docs/32-migration-guide.html
+for caveats when upgrading.
+
+
+7. Specific issues, features, and improvements fixed in this version
+
+** Bug
+* [CXF-7759] - Null pointer from the ThreadLocalServletContext class
+* [CXF-7760] - JOSE: JwsCompactConsumer parsing headers issue
+* [CXF-7763] - SSLUtils.configureKeyManagersWithCertAlias modifies keyManagers array
+* [CXF-7765] - URITemplate.compareTemplates returns inconsistent results
+* [CXF-7768] - ensure we close all temp queue/topic before we close a JMS connection
+* [CXF-7782] - Client session context is null before SSL context initialization
+* [CXF-7798] - Mapping of SOAP Faults in Asynchronous JAX-WS Client
+* [CXF-7799] - Query parameters are not handled properly when WebSocket transport is used
+* [CXF-7802] - URI query parameter without value causing crash
+* [CXF-7804] - SSE SseBroadcaster implementation not performing onClose / onError callbacks
+* [CXF-7805] - Transform feature outDropElements has no effect
+* [CXF-7811] - _wadl links missing in OSGi containers
+
+** New Feature
+* [CXF-7673] - Implement MicroProfile Rest Client 1.1
+
+** Improvement
+* [CXF-7767] - Support 100-Continue in Undertow transport
+* [CXF-7779] - Spring "version-less" xsd import
+* [CXF-7796] - Support setting outbound network interface for UDP transport
+
+** Test
+* [CXF-7787] - NullPointerException from wsdl2java
+
+** Task
+* [CXF-7725] - ensure all tests on 3.2.x branch can pass with java10
+* [CXF-7773] - Upgrade pax-cdi to 1.0.0
+* [CXF-7788] - Support POST method for OAuth authorization service
+* [CXF-7793] - NPE when using authorization grants with setUseJwtFormatForAccessTokens
+* [CXF-7797] - Refreshed access tokens are not issued in JWT format when setUseJwtFormatForAccessTokens is set
+* [CXF-7803] - JCache OAuthDataProvider implementation doesn't work with refresh tokens
+
+
+
+
+
+
